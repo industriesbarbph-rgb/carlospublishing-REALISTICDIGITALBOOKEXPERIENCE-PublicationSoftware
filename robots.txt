@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://industriesbarbph-rgb.github.io/carlospublishing-REALISTICDIGITALBOOKEXPERIENCE-PublicationSoftware/sitemap.xml
